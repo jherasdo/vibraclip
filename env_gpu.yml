@@ -24,7 +24,7 @@ dependencies:
       - hydra-core
       - wandb
       - lmdb
-      - rich
+      - rich==13.6.0
       - scikit-learn
       - lightning==2.4.0
       - optuna
