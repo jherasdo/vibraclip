@@ -126,10 +126,11 @@ If you use this codebase in your work, please consider citing:
 ```bibtex
 @article{vibraclip,
     title = {Multi-Modal Contrastive Learning for Chemical Structure Elucidation with VibraCLIP},
-    author = {Pau Rocabert-Oriols, Nuria López, Javier Heras-Domingo},
-    journal = {submitted},
+    author = {Rocabert-Oriols, Pau and Conte, Camilla Lo and Lopez, Nuria and Heras-Domingo, Javier},
+    journal = {Digital Discovery},
     year = {2025},
-    doi = {},
+    publisher={Royal Society of Chemistry},
+    doi = {https://doi.org/10.1039/D5DD00269A},
 }
 ```
 
